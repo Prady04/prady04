@@ -7,14 +7,14 @@
   &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;
 <a href="https://linkedin.com/in/aboutpradeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aboutpradeep" height="30" width="40" /></a>
     &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;
-<a href="https://www.youtube.com/c/@candlestickstrader" target="blank"><img align="center" "width="48" height="48" src="https://img.icons8.com/color/48/youtube-play.png" alt="@candlestickstrader" /></a>
+<a href="https://www.youtube.com/@candlestickstrader" target="blank"><img align="center" "width="48" height="48" src="https://img.icons8.com/color/48/youtube-play.png" alt="@candlestickstrader" /></a>
     &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;
-<a href="/www.pradyehv.substack.com/feed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="www.pradyehv.substack.com/feed" height="30" width="40" /></a>
+<a href="https://www.pradyehv.substack.com/feed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="www.pradyehv.substack.com/feed" height="30" width="40" /></a>
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://img.shields.io/github/stars/prady04?style=social" alt="prady04" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/pradytrader1" target="blank"><img src="https://img.shields.io/twitter/follow/pradytrader1?style=social" alt="pradytrader1" /></a> </p>
+
 
 - 🔭 I’m currently working on [TradeNorth21](www.vcptrader.com)
 
