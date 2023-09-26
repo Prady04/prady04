@@ -1,6 +1,6 @@
 <h1 align="center">Namaste 🙏
 , I'm Pradeep</h1>
-<h4 align="center">AVP Software Engineering, Full stack developer, Algo trading enthusiast</h4>
+<h4 align="center">Software Leader, Full stack developer, Algo trading enthusiast</h4>
 
 <hr>
 <p align="center">
