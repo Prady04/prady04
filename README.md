@@ -17,7 +17,7 @@
 
 
 
-- 🔭 I’m currently working on [TradeNorth21](www.vcptrader.com)
+- 🔭 I’m currently working on [VCPTrader](www.vcptrader.com)
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/aboutPradeep](www.linkedin.com/in/aboutPradeep)
 
