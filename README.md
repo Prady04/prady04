@@ -17,19 +17,19 @@
 
 
 
-- 🔭 I’m currently working on [VCPTrader](www.vcptrader.com)
+- 🔭 I am a full time trader, consultant healthtech, fintech ex software developer
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/aboutPradeep](www.linkedin.com/in/aboutPradeep)
 
 - 📝 I regularly write articles on [www.pradyehv.substack.com](www.pradyehv.substack.com)
 
-- 💬 Ask me about **flask, react, css**
+- 💬 Ask me about **flask, react, AI in finance**
 
 - 📫 How to reach me **pradyhangsout@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/aboutPradeep](www.linkedin.com/in/aboutPradeep)
 
-- ⚡ Fun fact **I am a youtube content creator**
+- ⚡ Fun fact **I even watch zimbavwe vs Srilanka cricket matches**
 
 <br><br>
 <hr>
